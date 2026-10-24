@@ -1,0 +1,2 @@
+input_file,output_file,input_rows,output_rows,unique_orders,missing_order_ids,duplicate_order_product_rows,high_risk_rows,medium_risk_rows,review_rows
+anomaly_investigation_report.csv,final_business_recommendations.csv,3497,3497,3451,0,0,2450,0,1047
